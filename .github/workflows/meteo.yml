@@ -19,7 +19,7 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install requests
+          pip install requests schedule
 
       - name: Executar o Bot
         run: |

@@ -23,4 +23,4 @@ jobs:
 
       - name: Executar o Bot
         run: |
-          python bot.meteo.py
+          python bot.meteo.py.py
